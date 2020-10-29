@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Zia Ulhafizd Aldiansyah</title>
+        <link>zialdiansyah.github.io/posts/</link>
+        <description>Recent content in Posts on Zia Ulhafizd Aldiansyah</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="zialdiansyah.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>zialdiansyah.github.io/posts/my-first-post/</link>
+            <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+            
+            <guid>zialdiansyah.github.io/posts/my-first-post/</guid>
+            <description>Hugo First Post Hi there, Zia here! Currently working as frontend developer at Vutura</description>
+            <content type="html"><![CDATA[<h1 id="hugo-first-post">Hugo First Post</h1>
+<p>Hi there, Zia here!
+Currently working as frontend developer at Vutura</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
